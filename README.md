@@ -17,5 +17,5 @@ To analyze student academic performance data across multiple dimensions i.e, sub
 <img width="1278" height="421" alt="Dashboard " src="https://github.com/user-attachments/assets/b9d5e033-4ffa-4776-a922-83f588d3cf4e" />
 
 ## Statistics
-<img width="1278" height="421" alt="Statistics" src="https://github.com/user-attachments/assets/4fdf4373-e00e-443a-ba4e-f7c10189b051" />
+<img width="872" height="97" alt="Statistics" src="https://github.com/user-attachments/assets/4fdf4373-e00e-443a-ba4e-f7c10189b051" />
 
