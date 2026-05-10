@@ -12,5 +12,5 @@ To analyze student academic performance data across multiple dimensions i.e, sub
 4. Which age group performs the best/worst?
 5. Do students who study more hours perform better?
 6. Is there a link between study hours and grade?
-Dashboard interaction: <a href="https://github.com/sneharkv/Student-Performance-Analysis/blob/main/Dashboard%20.png"> View-Dashboard</a>
+7. Dashboard interaction: <a href="https://github.com/sneharkv/Student-Performance-Analysis/blob/main/Dashboard%20.png"> View-Dashboard</a>
    
