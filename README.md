@@ -18,4 +18,10 @@ To analyze student academic performance data across multiple dimensions i.e, sub
 
 ## Statistics
 <img width="872" height="97" alt="Statistics" src="https://github.com/user-attachments/assets/4fdf4373-e00e-443a-ba4e-f7c10189b051" />
-
+## Tools and Skills used
+1. Mircrosoft Excel:                     Primary tool for data analysis
+2. VLOOKUP:                              Built a dynamic student search tool
+3. Pivot Tables:                         Summarized data by grade, age and subject
+4. Charts:                               Visualization
+5. Formulas (SUM, AVERAGE, MIN, MAX):    Calculated class-wide statistics
+6. Multi-sheet Workbook:                 Organized analysis across 5 dedicated sheets
