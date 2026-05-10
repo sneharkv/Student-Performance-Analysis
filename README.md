@@ -26,3 +26,7 @@ To analyze student academic performance data across multiple dimensions i.e, sub
 4. Charts:                               Visualization
 5. Formulas (SUM, AVERAGE, MIN, MAX):    Calculated class-wide statistics
 6. Multi-sheet Workbook:                 Organized analysis across 5 dedicated sheets
+
+## Conclusion
+This project showcases how Microsoft Excel can be used to extract meaningful insights from raw data. Analysis of 121 student records revealed key performance trends across subjects, age groups, and study behavior — demonstrating practical, data-driven decision making.
+
