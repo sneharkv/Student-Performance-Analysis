@@ -5,3 +5,12 @@ This project analyzes academic performance data for 121 students across 5 subjec
 To analyze student academic performance data across multiple dimensions i.e, subject-wise, behavioral, and demographic using Microsoft Excel, and to derive meaningful insights that can help identify performance gaps and support data-driven decision making.
 ## Dataset Used
 <a href="https://github.com/sneharkv/Student-Performance-Analysis/blob/main/student_performance_analysis.xlsx"> Dataset</a>
+## Questions (KPIs)
+1. Which subject has the highest/lowest average score?
+2. Which subject needs the most attention?
+3. Does age affect academic performance?
+4. Which age group performs the best/worst?
+5. Do students who study more hours perform better?
+6. Is there a link between study hours and grade?
+   Dashboard interaction: <a href="https://github.com/sneharkv/Student-Performance-Analysis/blob/main/Dashboard%20.png"> View-Dashboard</a>
+   
