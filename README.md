@@ -13,4 +13,6 @@ To analyze student academic performance data across multiple dimensions i.e, sub
 5. Do students who study more hours perform better?
 6. Is there a link between study hours and grade?
 7. Dashboard interaction: <a href="https://github.com/sneharkv/Student-Performance-Analysis/blob/main/Dashboard%20.png"> View-Dashboard</a>
-   
+## Dashboard
+<img width="1278" height="421" alt="Dashboard " src="https://github.com/user-attachments/assets/b9d5e033-4ffa-4776-a922-83f588d3cf4e" />
+
